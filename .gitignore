@@ -1,0 +1,4 @@
+# MongoDB и MySQL data-тома
+docker/**/data/
+# Любые сокеты
+*.sock
